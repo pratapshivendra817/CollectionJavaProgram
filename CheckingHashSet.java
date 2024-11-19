@@ -13,7 +13,7 @@ public class CheckingHashSet {
         hashSet.add("Apple"); //Duplicate
         hashSet.add("Banana");
 
-        System.out.println("Contains 'Cherry': " + hashSet.contains("Cherry"));
+        System.out.println("Contains 'Cherry': " + hashSet.contains("Cherry")); //true
         System.out.println("Contains 'Grapes': " + hashSet.contains("Grapes")); // false
 
 
